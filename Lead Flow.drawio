@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="27.2.0">
+  <diagram name="Page-1" id="cPo-wZZKd6SNSlnx03Gx">
+    <mxGraphModel dx="2946" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-1" target="LXg2bV3EX4cjXIF9Gxxk-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-1" value="New Leads are added to CRM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-3" target="LXg2bV3EX4cjXIF9Gxxk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-3" value="Sales team work their leads" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-5" target="LXg2bV3EX4cjXIF9Gxxk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-9" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXg2bV3EX4cjXIF9Gxxk-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-5" target="LXg2bV3EX4cjXIF9Gxxk-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXg2bV3EX4cjXIF9Gxxk-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-5" value="Qualified Lead?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-7" value="&lt;div&gt;Convert Lead to account&lt;/div&gt;&lt;div&gt;(workflow to trigger communication after X time)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-13" target="LXg2bV3EX4cjXIF9Gxxk-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-13" value="Convert to Opportunity " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-14" target="LXg2bV3EX4cjXIF9Gxxk-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-18" value="Lost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXg2bV3EX4cjXIF9Gxxk-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.287" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXg2bV3EX4cjXIF9Gxxk-14" target="LXg2bV3EX4cjXIF9Gxxk-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-21" value="Won" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXg2bV3EX4cjXIF9Gxxk-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.2222" y="3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-14" value="Opportunity Won/Lost" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="430" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-16" value="Mark as lost" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXg2bV3EX4cjXIF9Gxxk-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
